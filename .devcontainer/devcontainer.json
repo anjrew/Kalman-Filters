@@ -11,7 +11,9 @@
 		"vscode": {
 			"extensions": [
 				"ms-azuretools.vscode-docker",
-				"formulahendry.docker-explorer"
+				"formulahendry.docker-explorer",
+				"ms-toolsai.jupyter",
+				"ms-toolsai.vscode-jupyter-cell-tags"
 			]
 		}
 	}
